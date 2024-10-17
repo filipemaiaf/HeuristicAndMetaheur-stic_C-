@@ -12,3 +12,5 @@ Cij , com i, j ∈ {0} ∪ N : i ̸= j. Note: Consider |N| ≥ 7 e |K| ≥ 10.
 3. Define a neighbourhood for the presented problem. Calculate the local optimal of this neighbourhood, starting from the admissible solution from 2).
    
 4. Develop a Metaheuristic for the presented problem and use it to calculate an admissible solution for it.
+
+Final Grade: 16/20
