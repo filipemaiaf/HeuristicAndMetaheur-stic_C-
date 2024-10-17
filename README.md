@@ -1,6 +1,6 @@
 # Heuristic And Metaheuristic
 
-To fabricate chocolates, Miss Y need Prime-Materies available in a group of N suppliers Each supplier seel a subgroup of PMs with variable prices depending on the supplier.
+To fabricate chocolats, Miss Y need Prime-Materies available in a group of N suppliers Each supplier seel a subgroup of PMs with variable prices depending on the supplier.
 There are also deslocation costs.
 This project should determine a path stating on the factory that helps Miss Y aquiring all the needed PMs with the lower final cost possible - composed by the deslocation and aquisition costs. 
 
